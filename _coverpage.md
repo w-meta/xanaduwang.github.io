@@ -8,6 +8,6 @@
 - 没有静态生成的html文件
 - 多个主题
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/xanaduWang)
 [快速开始](#docsify)
 
